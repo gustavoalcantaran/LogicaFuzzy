@@ -1,0 +1,2 @@
+# LogicaFuzzy
+Semáforo Fuzzy
